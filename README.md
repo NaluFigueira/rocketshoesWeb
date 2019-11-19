@@ -16,7 +16,9 @@ A aplicação WEB desenvolvida durante o módulo 7 nada mais é do que um e-comm
   <li> <strong> Carrinho de compras: </strong>  o usuário pode adicionar vários itens ao seu carrinho de compras, e o que está no carrinho pode ser visualizado separadamente em outra página.</li>
 </ul>
 
-**Principais tecnologias**: React, Redux, Styled Components.
+O principal objetivo da aplicação é entender e praticar os conceitos da arquitetura Flux.
+
+**Principais tecnologias**: React, Redux (Saga), Styled Components, Immer.
 
 **Ferramentas de edição e desenvolvimento**:  Eslint, Prettier.
 
@@ -26,5 +28,7 @@ A aplicação WEB desenvolvida durante o módulo 7 nada mais é do que um e-comm
 
 **Ferramentas de validação**: PropTypes.
 
+**Ferramentas para depuração**: Reactotron.
 
-Link para o desafio: https://github.com/Rocketseat/bootcamp-gostack-desafio-06/blob/master/README.md
+**Outras**: History, React Toastify.
+
