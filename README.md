@@ -32,3 +32,4 @@ O principal objetivo da aplicação é entender e praticar os conceitos da arqui
 
 **Outras**: History, React Toastify.
 
+Link para a versão mobile: https://github.com/NaluFigueira/rocketshoesMobile
