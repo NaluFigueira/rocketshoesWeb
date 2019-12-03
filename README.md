@@ -18,7 +18,7 @@ A aplicação WEB desenvolvida durante o módulo 7 nada mais é do que um e-comm
 
 O principal objetivo da aplicação é entender e praticar os conceitos da arquitetura Flux.
 
-**Principais tecnologias**: React, Redux (Saga), Styled Components, Immer.
+**Principais tecnologias**: React, Redux (Saga), Styled Components, Immer, React Hooks
 
 **Ferramentas de edição e desenvolvimento**:  Eslint, Prettier.
 
